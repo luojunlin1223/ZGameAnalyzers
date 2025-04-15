@@ -1,0 +1,12 @@
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\bin\Release\netstandard2.0\ZGameAnalyzers.deps.json
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\bin\Release\netstandard2.0\ZGameAnalyzers.dll
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\bin\Release\netstandard2.0\ZGameAnalyzers.pdb
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.csproj.AssemblyReference.cache
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.Resources.resources
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.csproj.GenerateResource.cache
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.AssemblyInfoInputs.cache
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.AssemblyInfo.cs
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.csproj.CoreCompileInputs.cache
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.dll
+C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\obj\Release\netstandard2.0\ZGameAnalyzers.pdb
