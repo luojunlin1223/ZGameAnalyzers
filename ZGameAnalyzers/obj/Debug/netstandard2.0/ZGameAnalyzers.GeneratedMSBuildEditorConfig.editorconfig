@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = ZGameAnalyzers
-build_property.ProjectDir = C:\Users\LG\RiderProjects\ZGameAnalyzers\ZGameAnalyzers\ZGameAnalyzers\
+build_property.ProjectDir = F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

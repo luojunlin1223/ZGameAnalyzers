@@ -1,0 +1,13 @@
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\bin\Debug\netstandard2.0\ZGameAnalyzers.deps.json
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\bin\Debug\netstandard2.0\ZGameAnalyzers.dll
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\bin\Debug\netstandard2.0\ZGameAnalyzers.pdb
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.csproj.AssemblyReference.cache
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.Resources.resources
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.csproj.GenerateResource.cache
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.GeneratedMSBuildEditorConfig.editorconfig
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.AssemblyInfoInputs.cache
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.AssemblyInfo.cs
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.csproj.CoreCompileInputs.cache
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.sourcelink.json
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.dll
+F:\ZGameClient\ZGameAnalyzers\ZGameAnalyzers\obj\Debug\netstandard2.0\ZGameAnalyzers.pdb

@@ -7886,32 +7886,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LG\\.nuget\\packages\\": {}
+    "C:\\Users\\16499\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LG\\RiderProjects\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers.Tests\\ZGameAnalyzers.Tests.csproj",
+      "projectUniqueName": "F:\\ZGameClient\\ZGameAnalyzers\\ZGameAnalyzers.Tests\\ZGameAnalyzers.Tests.csproj",
       "projectName": "ZGameAnalyzers.Tests",
-      "projectPath": "C:\\Users\\LG\\RiderProjects\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers.Tests\\ZGameAnalyzers.Tests.csproj",
-      "packagesPath": "C:\\Users\\LG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LG\\RiderProjects\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers.Tests\\obj\\",
+      "projectPath": "F:\\ZGameClient\\ZGameAnalyzers\\ZGameAnalyzers.Tests\\ZGameAnalyzers.Tests.csproj",
+      "packagesPath": "C:\\Users\\16499\\.nuget\\packages\\",
+      "outputPath": "F:\\ZGameClient\\ZGameAnalyzers\\ZGameAnalyzers.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\LG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\16499\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\LG\\RiderProjects\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers.csproj": {
-              "projectPath": "C:\\Users\\LG\\RiderProjects\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers.csproj"
+            "F:\\ZGameClient\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers.csproj": {
+              "projectPath": "F:\\ZGameClient\\ZGameAnalyzers\\ZGameAnalyzers\\ZGameAnalyzers.csproj"
             }
           }
         }
@@ -7926,7 +7933,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -7966,26 +7973,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\LG\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
