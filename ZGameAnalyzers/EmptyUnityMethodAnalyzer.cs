@@ -96,21 +96,22 @@ public class EmptyUnityMethodAnalyzer : DiagnosticAnalyzer
 
     private static bool IsPurelyComment(StatementSyntax statement)
     {
-        // 获取语句上的所有Trivia（包括注释和空白）
-        var triviaList = statement.GetLeadingTrivia();
+        // 获取所有 Trivia，包括前导和后导
+        var allTrivia = statement.GetLeadingTrivia().AddRange(statement.GetTrailingTrivia());
 
-        // 如果所有 Trivia 都是注释或者空白，则认为语句是纯注释的
-        foreach (var trivia in triviaList)
+        foreach (var trivia in allTrivia)
         {
+            // 如果 `Trivia` 的种类不是注释或空白，则此语句不是“纯注释”
             if (!trivia.IsKind(SyntaxKind.SingleLineCommentTrivia) &&
                 !trivia.IsKind(SyntaxKind.MultiLineCommentTrivia) &&
                 !trivia.IsKind(SyntaxKind.WhitespaceTrivia))
             {
-                return false; // 包含有效内容
+                return false; // 包含非注释内容的有效语句
             }
         }
 
-        return true; // 没有有效内容，仅包含注释或空白
+        // 如果所有 Trivia 均为注释或空白，则此语句是仅包含注释的
+        return true;
     }
 
     private static bool IsMonoBehaviour(INamedTypeSymbol classSymbol)
