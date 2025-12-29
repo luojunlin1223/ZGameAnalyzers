@@ -141,7 +141,7 @@ namespace ZGameAnalyzers {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 检测到在非Editor文件下使用了Using Editor.
+        ///   Looks up a localized string similar to [ZGameAnalyzer] 检测到在非Editor文件下使用了Using Editor.
         /// </summary>
         internal static string ZG0001MessageFormat {
             get {
@@ -177,7 +177,7 @@ namespace ZGameAnalyzers {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 检测到在非Editor文件下使用了Using NPOI.
+        ///   Looks up a localized string similar to [ZGameAnalyzer] 检测到在非Editor文件下使用了Using NPOI.
         /// </summary>
         internal static string ZG0002MessageFormat {
             get {

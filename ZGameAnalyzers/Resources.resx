@@ -47,7 +47,7 @@
         <value>检测到在非Editor文件下使用了Using Editor</value><comment>An optional longer localizable description of the diagnostic.</comment>
     </data>
     <data name="ZG0001MessageFormat" xml:space="preserve">
-        <value>检测到在非Editor文件下使用了Using Editor</value><comment>The format-able message the diagnostic displays.</comment>
+        <value>[ZGameAnalyzer] 检测到在非Editor文件下使用了Using Editor</value><comment>The format-able message the diagnostic displays.</comment>
     </data>
     <data name="ZG0001Title" xml:space="preserve">
         <value>检测到在非Editor文件下使用了Using Editor</value><comment>The title of the diagnostic.</comment>
@@ -61,7 +61,7 @@
         <value>检测到在非Editor文件下使用了Using NPOI</value><comment>An optional longer localizable description of the diagnostic.</comment>
     </data>
     <data name="ZG0002MessageFormat" xml:space="preserve">
-        <value>检测到在非Editor文件下使用了Using NPOI</value><comment>The format-able message the diagnostic displays.</comment>
+        <value>[ZGameAnalyzer] 检测到在非Editor文件下使用了Using NPOI</value><comment>The format-able message the diagnostic displays.</comment>
     </data>
     <data name="ZG0002Title" xml:space="preserve">
         <value>检测到在非Editor文件下使用了Using NPOI</value><comment>The title of the diagnostic.</comment>

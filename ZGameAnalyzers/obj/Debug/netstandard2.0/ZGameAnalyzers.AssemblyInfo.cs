@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZGameAnalyzers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e004c644d3939d75d512e35ebe3fe82b52f20b51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33585ab499ea247db8e9d2f4f9941279e6dc3f19")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZGameAnalyzers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZGameAnalyzers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

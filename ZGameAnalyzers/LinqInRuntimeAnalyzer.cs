@@ -20,7 +20,7 @@ public class LinqInRuntimeAnalyzer : DiagnosticAnalyzer
     private static readonly DiagnosticDescriptor Rule = new DiagnosticDescriptor(
         DiagnosticId,
         "禁止在非 Editor 目录每帧逻辑中使用 LINQ",
-        "在非 `Editor` 目录的每帧方法中不允许使用 LINQ：{0}（定义 `#define ALLOW_LINQ` 可放行）",
+        "[ZGameAnalyzer] 在非 `Editor` 目录的每帧方法中不允许使用 LINQ：{0}（定义 `#define ALLOW_LINQ` 可放行）",
         "Usage",
         DiagnosticSeverity.Error,
         isEnabledByDefault: true,
